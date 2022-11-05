@@ -1,0 +1,87 @@
+
+body{
+    background-color:#222831;
+}
+
+.titulo{
+     font-weight: 800;
+    font-size: 1.7cm;
+    color: #EEEEEE 
+}
+
+button{
+    border: none;
+    position: relative;
+    font-weight: 500;
+    font-size: x-large;
+    background-color: #FFD369;
+    padding: 5px 10px
+}
+
+a{
+    text-decoration:none;
+    color: black;
+    border-color: #EEEEEE; padding: 7px;
+    padding-bottom: 4px;   
+}
+
+p{
+    font-size: 26px;
+    color: #EEEEEE;
+}
+
+img{
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+}
+
+.fondo{
+    background-image: url(clases.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.negro{
+    color: #EEEEEE;
+}
+
+.cam{
+    width:352.5px;
+    height: 512px;
+}
+.A{
+    width: 518px;
+    height: 306px;
+}
+
+h1{
+    color: black;
+    font-size: 42px;
+    font-weight:700
+
+}
+
+h2{
+    color: black;
+    font-size: 37px;
+}
+
+li{
+    color: #EEEEEE;
+    font-size: 26px;
+}
+
+.B{
+    width: 366.66px;
+    height: 433.33px;
+}
+
+.info{
+    background-color: #272727;
+    
+}
